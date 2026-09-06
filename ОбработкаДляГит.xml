@@ -6,16 +6,16 @@
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
 				<xr:ObjectId>1a2d2935-8357-4281-a572-8f2fd849b97b</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalDataProcessorObject.ВнешняяОбработка1" category="Object">
+			<xr:GeneratedType name="ExternalDataProcessorObject.ВнешняяОбработка" category="Object">
 				<xr:TypeId>1847da8a-0705-46ec-a529-c7ff28d7eac4</xr:TypeId>
 				<xr:ValueId>93e68c41-26fe-435b-9b18-40c93223b0e5</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ВнешняяОбработка1</Name>
+			<Name>ВнешняяОбработка</Name>
 			<Synonym/>
 			<Comment/>
-			<DefaultForm>ExternalDataProcessor.ВнешняяОбработка1.Form.Форма</DefaultForm>
+			<DefaultForm>ExternalDataProcessor.ВнешняяОбработка.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
 		<ChildObjects>
